@@ -21,6 +21,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Prisma](https://www.prisma.io/)
 - [JSON Web Token](https://jwt.io/)
 - [Socket.IO](https://socket.io/)
+- [NodeJs](https://www.notion.so/Node-js-a0d5ad31a0fb4a47b96434b9af9dc5b2)
+- [ReactJs](https://www.notion.so/ReactJS-8264246c2cb840e890bd17ab169ffa47)
+- [React Native](https://www.notion.so/React-Native-f1e726fc05d248a88d35eba7473b0f78)
+- [Elixir](https://www.notion.so/Elixir-1b7cb41a1f2a4be8bfc2ab8051276282)
 
 ## 🚀 Como executar
 
