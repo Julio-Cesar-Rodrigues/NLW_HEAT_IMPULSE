@@ -21,10 +21,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Prisma](https://www.prisma.io/)
 - [JSON Web Token](https://jwt.io/)
 - [Socket.IO](https://socket.io/)
-- [NodeJs](https://www.notion.so/Node-js-a0d5ad31a0fb4a47b96434b9af9dc5b2)
-- [ReactJs](https://www.notion.so/ReactJS-8264246c2cb840e890bd17ab169ffa47)
-- [React Native](https://www.notion.so/React-Native-f1e726fc05d248a88d35eba7473b0f78)
-- [Elixir](https://www.notion.so/Elixir-1b7cb41a1f2a4be8bfc2ab8051276282)
+-
+Aqui você tem acesso à todos os guias de configuração de ambiente com todo o passo a passo para cada tecnologia da trilha **Impulse.**
+
+[ReactJS](https://www.notion.so/ReactJS-8264246c2cb840e890bd17ab169ffa47)
+
+[React Native](https://www.notion.so/React-Native-f1e726fc05d248a88d35eba7473b0f78)
+
+[Node.js](https://www.notion.so/Node-js-a0d5ad31a0fb4a47b96434b9af9dc5b2)
+
+[Elixir                                                                                                             ](https://www.notion.so/Elixir-1b7cb41a1f2a4be8bfc2ab8051276282)
 
 ## 🚀 Como executar
 
@@ -37,6 +43,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Inicie o servidor com `yarn dev`;
 
 A aplicação pode ser acessada em [`localhost:4000`](http://localhost:4000).
+
+## Layout da aplicação
+
+[Figma - [NLW Heat - Mission: Impulse] DoWhile2021 | Projeto desenvolvido na missão Impulse do NLW Heat. DoWhile2021 é o layout de uma aplicação ond...](https://www.figma.com/community/file/1031699316177416916/%5BNLW-Heat---Mission%3A-Impulse%5D-DoWhile2021)
+
+⚠ Se você estiver com dificuldades para acessar o layout, experimente clicar no botão `Duplicate` na parte superior da página. Isso irá criar uma cópia do layout na sua conta pessoal do Figma e você poderá inclusive editar algo se quiser 💜
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9258cd63-f508-43ac-aa9c-45f5acec420d/Untitled.png)
 
 ## 📄 Licença
 
