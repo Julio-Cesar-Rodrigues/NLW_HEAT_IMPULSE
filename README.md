@@ -50,7 +50,7 @@ A aplicação pode ser acessada em [`localhost:4000`](http://localhost:4000).
 
 ⚠ Se você estiver com dificuldades para acessar o layout, experimente clicar no botão `Duplicate` na parte superior da página. Isso irá criar uma cópia do layout na sua conta pessoal do Figma e você poderá inclusive editar algo se quiser 💜
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9258cd63-f508-43ac-aa9c-45f5acec420d/Untitled.png)
+![Untitled](https://github.com/Julio-Cesar-Rodrigues/NLW_HEAT_IMPULSE/blob/main/layout.png?raw=true)
 
 ## 📄 Licença
 
