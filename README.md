@@ -30,7 +30,6 @@ Aqui você tem acesso à todos os guias de configuração de ambiente com todo o
 
 [Node.js](https://www.notion.so/Node-js-a0d5ad31a0fb4a47b96434b9af9dc5b2)
 
-[Elixir                                                                                                             ](https://www.notion.so/Elixir-1b7cb41a1f2a4be8bfc2ab8051276282)
 
 ## 🚀 Como executar
 
